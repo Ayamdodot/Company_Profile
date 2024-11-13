@@ -1,0 +1,19 @@
+# cara membuat
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" conten="width=device-width,initial-scale=1.0">
+    <title>Latihan Git</title>
+</head>
+
+<body>
+
+    <h1>PT. VILIA FARM</h1>
+
+    <div>ini adalah halaman about html</div>
+    <div>Vilia Farm dirancang untuk proyek masa depan</div>
+
+</body>
+
+</html>
